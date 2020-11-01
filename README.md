@@ -88,3 +88,17 @@
 
 # Bachelor's thesis supervision
 
+### 2020
+
+1. Andreea-Georgiana Bujanita: **Web application for inventories management**
+
+2. Bogdan-Alexandru Cuna: **Google Drive add-on for cloud electronic signature**
+
+3. Ana-Maria Dobrescu: **Log analysis using Elastic Stack**
+
+4. Laura-Diana Niculescu: **Web application for the management of the educational process in a university**
+
+5. Constantin-Alexandru Radivoiu: **Mobile app for internal communication inside an organization**
+
+6. Silvia-Andreea Robu: **Remote automated customer onboarding system**
+

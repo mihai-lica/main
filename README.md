@@ -42,15 +42,15 @@
 
 [GitHub repository](https://github.com/leahulorena/TEST_CSC_API)
 
-3. Bogdan Mosoiu: **Adobe Reader plug-in for cloud electronic signature of PDF documents**
-
-4. Marius-Cosmin Oprisan: **Using automated theorem proving (TPTP) in the formal verification of security protocols**
-
-5. Paul-Danut Urian: **Android app for cloud electronic signature of PDF documents**
+3. Paul-Danut Urian: **Android app for cloud electronic signature of PDF documents**
 
 [GitHub repository](https://github.com/UrianPaul/Android-Remote-Signing-App)
 
 [Publication](https://link.springer.com/chapter/10.1007/978-3-030-41025-4_15): Aciobanitei Iulian, Urian Paul Danut, Mihai-Lica Pura, "Learned Lessons from Implementing an Android Client for the Cloud Signature Consortium API", 12th International Conference on Security for Information Technology and Communications (SecITC 2019), Bucharest, Romania, November 14-15, 2019
+
+4. Bogdan Mosoiu: **Adobe Reader plug-in for cloud electronic signature of PDF documents**
+
+5. Marius-Cosmin Oprisan: **Using automated theorem proving (TPTP) in the formal verification of security protocols**
 
 ### 2018
 
@@ -108,13 +108,13 @@
 
 ### 2019
 
-1. Miruna Ciobanu: **Rewriting systems inversion**
-
-2. Elena-Casiana Fusu: **Instruments for textual analysis for implementing a creative software (computer poetry)**
+1. Elena-Casiana Fusu: **Instruments for textual analysis for implementing a creative software (computer poetry)**
 
 [GitHub repository](https://github.com/CasianaFusu/ComputerPoetry)
 
 [Publication](https://ieeexplore.ieee.org/abstract/document/9223175): Elena-Casiana Fusu, Mihai-Lică Pura, "ROetry: First Steps Towards Computer Generated Poetry in Romanian Language", 12th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2020, București, Romania, 25-27 June, 2020
+
+2. Miruna Ciobanu: **Rewriting systems inversion**
 
 3. Cristian-Stefan Marica: **Comparative analysis of SQL, NoSQL and New SQL databases**
 
@@ -130,21 +130,21 @@
 
 [Publication](https://link.springer.com/chapter/10.1007/978-3-030-12942-2_15): Stefan Bodoarca, Mihai-Lica Pura, "Assuring Privacy in Surfing the Internet", Innovative Security Solutions for Information Technology and Communications, Lecture Notes for Computer Science, vol. 11359, Springer International Publishing, Post-proceedings of the 11th International Conference on Security for Information Technology and Communications, SecITC 2018, Bucharest, Romania, November 8–9, 2018
 
-2. Alina Horodinca: **Electronic signature for the documents stored in the cloud**
-
-3. Ovidiu-Cristian Ivanoiu: **Web platform for students evaluation**
-
-4. Andreea Scurtu: **Web platform for the formal verification of security protocols using Casper&FDR4**
+2. Andreea Scurtu: **Web platform for the formal verification of security protocols using Casper&FDR4**
 
 [GitHub repository](https://github.com/divvany/AMCCP_CasperFDR)
 
 [Publication](https://ieeexplore.ieee.org/document/9041964): Andreea Scurtu, Mihai-Lica Pura, "Web GUI for Automating the Formal Verification of Security Protocols using Casper&FDR4", 11th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2019, Pitesti, Romania, 27-29 June, 2019
 
-5. Robert-George Simion: **Torrent network monitor**
+3. Robert-George Simion: **Torrent network monitor**
 
 [GitHub repository](https://github.com/simionrobert/BitInsight)
 
 [Publication](https://ieeexplore.ieee.org/document/9111636): Robert-George Simion, Mihai-Lica Pura, "A BitTorrent DHT Crawler", IEEE 13th International Symposium on Applied Computational Intelligence and Informatics (SACI 2019), May 29-31, 2019, Timisoara, Romania
+
+4. Alina Horodinca: **Electronic signature for the documents stored in the cloud**
+
+5. Ovidiu-Cristian Ivanoiu: **Web platform for students evaluation**
 
 6. Ioan Suciu: **Cloud service for file storage and distribution**
 
@@ -156,35 +156,35 @@ GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://
 
 [Publication](https://ieeexplore.ieee.org/document/8679009): Iulian Aciobanitei, Lorena Leahu, Mihai Lica Pura, "A PKCS#11 Driver for Cryptography in the Cloud", 10th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2018, 28-30 June, 2018, Iasi, Romania
 
-2. Bogdan-Alexandru Mosoiu: **Secure email system on Debian**
-
-3. Petrisor-Madalin Popa: **Web application for real estate operation management**
-
-4. Paul-Danut Urian: **Cryptography API: Next Generation (CNG) Key Storage Provider for cryptographic operations with cloud stored cryptographic keys**
+2. Paul-Danut Urian: **Cryptography API: Next Generation (CNG) Key Storage Provider for cryptographic operations with cloud stored cryptographic keys**
 
 [GitHub repository](https://github.com/UrianPaul/CloudDigitalSignature)
 
 [Publication](https://ieeexplore.ieee.org/document/8679042): Iulian Aciobanitei, Paul Danut Urian, Mihai Lica Pura, "A Cryptography API: Next Generation Key Storage Provider for Cryptography in the Cloud", 10th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2018, 28-30 June, 2018, Iasi, Romania
 
+3. Bogdan-Alexandru Mosoiu: **Secure email system on Debian**
+
+4. Petrisor-Madalin Popa: **Web application for real estate operation management**
+
 5. Sorin-Andrei Vasilica: **NoSQL databases**
 
 ### 2016
 
-1. Daniel-Catalin Amarioarei: **Automated text summarization and illustration through natural language processing**
-
-2. Geanina Balan: **Database replication between servers using different technologies**
-
-3. Maria-Alexandra Bojescu: **Software application for the management of accommodations in penitentiaries**
-
-4. Elena-Alexandra Budulan: **Software application for inventories management in penitentiaries**
-
-5. Iulian-Catalin Buhus: **Authentication protocols using smartphone applications**
-
-6. Gabriela-Catalina Marica: **The use of NoSQL databases in big data**
-
-7. Sorin-Catalin Teican: **Gamma formalism implementation using rewriting systems**
+1. Sorin-Catalin Teican: **Gamma formalism implementation using rewriting systems**
 
 [Publication](https://ieeexplore.ieee.org/document/8484749): Sorin Catalin Teican, Iulian Aciobanitei, Mihai-Lica Pura, "Using set rewriting to implement the chemical reaction computation model", Proceedings of the 12th IEEE International Conference on Communications – COMM 2018, 14-16 June, 2018, Bucharest, Romania
+
+2. Daniel-Catalin Amarioarei: **Automated text summarization and illustration through natural language processing**
+
+3. Geanina Balan: **Database replication between servers using different technologies**
+
+4. Maria-Alexandra Bojescu: **Software application for the management of accommodations in penitentiaries**
+
+5. Elena-Alexandra Budulan: **Software application for inventories management in penitentiaries**
+
+6. Iulian-Catalin Buhus: **Authentication protocols using smartphone applications**
+
+7. Gabriela-Catalina Marica: **The use of NoSQL databases in big data**
 
 ### 2015
 
@@ -196,9 +196,29 @@ GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://
 
 2. Andrei Bercaru: **General Attacker model in formal verification of security protocols**
 
-3. George-Cristian Iordache: **Formal verification of the security of service oriented architectures**
-
 4. Mihai-Alexandru Dumitrel: **Web application for personal document management**
 
+3. George-Cristian Iordache: **Formal verification of the security of service oriented architectures**
+
 5. Bogdan-Ionut Marin: **Automated testing technologies for web applications**
+
+### 2013
+
+1. Madalin Anton: **Online collaboration prevention system based on mobile agents**
+
+2. Ana-Maria Ghimes: **Web technologies for software applications using databases**
+
+3. Teodora Ilies: **Software application for IT&C related inventories management**
+
+4. Silviu Iosub: **Monitorization video system accessible and configurable over the Internet**
+
+5. Sebastian Irimia: **Remote access control system for the hardware interfaces of a computer**
+
+6. Bianca Mateoiu: **Object-oriented programming language design**
+
+7. Clara Polifron: **Test data generator for database servers**
+
+8. Mihaela Sava: **Part-of-speech tagging**
+
+9. Alexandru Tenuc: **General purpose programming language design**
 

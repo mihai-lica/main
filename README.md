@@ -144,3 +144,19 @@
 
 6. Ioan Suciu: **Cloud service for file storage and distribution**
 
+### 2017
+
+1. Lorena Leahu: **Virtual smartcard for cryptographic operations with cloud stored cryptographic keys**
+
+[Publication](): 
+
+2. Bogdan-Alexandru Mosoiu: **Secure email system on Debian**
+
+3. Petrisor-Madalin Popa: **Web application for real estate operation management**
+
+4. Paul-Danut Urian: **Cryptography API: Next Generation (CNG) Key Storage Provider for cryptographic operations with cloud stored cryptographic keys**
+
+[Publication](): 
+
+5. Sorin-Andrei Vasilica: **NoSQL databases**
+

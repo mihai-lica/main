@@ -102,3 +102,39 @@
 
 6. Silvia-Andreea Robu: **Remote automated customer onboarding system**
 
+### 2019
+
+1. Miruna Ciobanu: **Rewriting systems inversion**
+
+2. Elena-Casiana Fusu: **Instruments for textual analysis for implementing a creative software (computer poetry)**
+
+[GitHub repository](https://github.com/CasianaFusu/ComputerPoetry)
+
+[Publication](https://ieeexplore.ieee.org/abstract/document/9223175): Elena-Casiana Fusu, Mihai-Lică Pura, "ROetry: First Steps Towards Computer Generated Poetry in Romanian Language", 12th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2020, București, Romania, 25-27 June, 2020
+
+3. Cristian-Stefan Marica: **Comparative analysis of SQL, NoSQL and New SQL databases**
+
+4. Alexandru-Cristian Olariu: **Cloud billing system implementation**
+
+5. Denisa-Larisa Voica: **Software application for monitoring and controlling the access to computers**
+
+### 2018 
+
+1. Stefan Bodoarca: **Software application for keeping the users' privacy while surfing the Internet**
+
+[Publication](https://link.springer.com/chapter/10.1007/978-3-030-12942-2_15): Stefan Bodoarca, Mihai-Lica Pura, "Assuring Privacy in Surfing the Internet", Innovative Security Solutions for Information Technology and Communications, Lecture Notes for Computer Science, vol. 11359, Springer International Publishing, Post-proceedings of the 11th International Conference on Security for Information Technology and Communications, SecITC 2018, Bucharest, Romania, November 8–9, 2018
+
+2. Alina Horodinca: **Electronic signature for the documents stored in the cloud**
+
+3. Ovidiu-Cristian Ivanoiu: **Web platform for students evaluation**
+
+4. Andreea Scurtu: **Web platform for the formal verification of security protocols using Casper&FDR4**
+
+[Publication](https://ieeexplore.ieee.org/document/9041964): Andreea Scurtu, Mihai-Lica Pura, "Web GUI for Automating the Formal Verification of Security Protocols using Casper&FDR4", 11th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2019, Pitesti, Romania, 27-29 June, 2019
+
+5. Robert-George Simion: **Torrent network monitor**
+
+[Publication](https://ieeexplore.ieee.org/document/9111636): Robert-George Simion, Mihai-Lica Pura, "A BitTorrent DHT Crawler", IEEE 13th International Symposium on Applied Computational Intelligence and Informatics (SACI 2019), May 29-31, 2019, Timisoara, Romania
+
+6. Ioan Suciu: **Cloud service for file storage and distribution**
+

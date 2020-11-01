@@ -40,11 +40,15 @@
 
 2. Lorena Leahu: **Cloud electonic signature SDK for Cloud Signature Consortium Remote Signature Standard**
 
+[GitHub repository](https://github.com/leahulorena/TEST_CSC_API)
+
 3. Bogdan Mosoiu: **Adobe Reader plug-in for cloud electronic signature of PDF documents**
 
 4. Marius-Cosmin Oprisan: **Using automated theorem proving (TPTP) in the formal verification of security protocols**
 
 5. Paul-Danut Urian: **Android app for cloud electronic signature of PDF documents**
+
+[GitHub repository](https://github.com/UrianPaul/Android-Remote-Signing-App)
 
 [Publication](https://link.springer.com/chapter/10.1007/978-3-030-41025-4_15): Aciobanitei Iulian, Urian Paul Danut, Mihai-Lica Pura, "Learned Lessons from Implementing an Android Client for the Cloud Signature Consortium API", 12th International Conference on Security for Information Technology and Communications (SecITC 2019), Bucharest, Romania, November 14-15, 2019
 
@@ -148,7 +152,9 @@
 
 1. Lorena Leahu: **Virtual smartcard for cryptographic operations with cloud stored cryptographic keys**
 
-[Publication](): 
+GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://github.com/leahulorena/PKCS11Cloud_Wrapper), [3](https://github.com/leahulorena/PKCS11Cloud_WebCA)
+
+[Publication](https://ieeexplore.ieee.org/document/8679009): Iulian Aciobanitei, Lorena Leahu, Mihai Lica Pura, "A PKCS#11 Driver for Cryptography in the Cloud", 10th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2018, 28-30 June, 2018, Iasi, Romania
 
 2. Bogdan-Alexandru Mosoiu: **Secure email system on Debian**
 
@@ -156,7 +162,9 @@
 
 4. Paul-Danut Urian: **Cryptography API: Next Generation (CNG) Key Storage Provider for cryptographic operations with cloud stored cryptographic keys**
 
-[Publication](): 
+[GitHub repository](https://github.com/UrianPaul/CloudDigitalSignature)
+
+[Publication](https://ieeexplore.ieee.org/document/8679042): Iulian Aciobanitei, Paul Danut Urian, Mihai Lica Pura, "A Cryptography API: Next Generation Key Storage Provider for Cryptography in the Cloud", 10th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2018, 28-30 June, 2018, Iasi, Romania
 
 5. Sorin-Andrei Vasilica: **NoSQL databases**
 

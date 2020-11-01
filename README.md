@@ -186,3 +186,19 @@ GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://
 
 [Publication](https://ieeexplore.ieee.org/document/8484749): Sorin Catalin Teican, Iulian Aciobanitei, Mihai-Lica Pura, "Using set rewriting to implement the chemical reaction computation model", Proceedings of the 12th IEEE International Conference on Communications – COMM 2018, 14-16 June, 2018, Bucharest, Romania
 
+### 2015
+
+1. Diana-Getuta Oancea: **Using gamma calculus in ad hoc networks analysis**
+
+[GitHub repository](https://github.com/DianaOanceaG/GAMMA_calculus_and_OLSR)
+
+[Publication](https://ieeexplore.ieee.org/document/7528332): Diana Getuta Oancea, Mihai Lica Pura, Luciana Morogan, "Using Gamma Formalism for Model-Based Testing for the Routing Protocols for Mobile Ad Hoc Networks", Proceedings of the 11th IEEE International Conference on Communications – COMM 2016, Bucharest, Romania, 9-10 June, 2016
+
+2. Andrei Bercaru: **General Attacker model in formal verification of security protocols**
+
+3. George-Cristian Iordache: **Formal verification of the security of service oriented architectures**
+
+4. Mihai-Alexandru Dumitrel: **Web application for personal document management**
+
+5. Bogdan-Ionut Marin: **Automated testing technologies for web applications**
+

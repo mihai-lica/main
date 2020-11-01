@@ -122,6 +122,8 @@
 
 1. Stefan Bodoarca: **Software application for keeping the users' privacy while surfing the Internet**
 
+[GitHub repository](https://github.com/StefanBodoarca/BFingerprinting)
+
 [Publication](https://link.springer.com/chapter/10.1007/978-3-030-12942-2_15): Stefan Bodoarca, Mihai-Lica Pura, "Assuring Privacy in Surfing the Internet", Innovative Security Solutions for Information Technology and Communications, Lecture Notes for Computer Science, vol. 11359, Springer International Publishing, Post-proceedings of the 11th International Conference on Security for Information Technology and Communications, SecITC 2018, Bucharest, Romania, November 8–9, 2018
 
 2. Alina Horodinca: **Electronic signature for the documents stored in the cloud**
@@ -130,9 +132,13 @@
 
 4. Andreea Scurtu: **Web platform for the formal verification of security protocols using Casper&FDR4**
 
+[GitHub repository](https://github.com/divvany/AMCCP_CasperFDR)
+
 [Publication](https://ieeexplore.ieee.org/document/9041964): Andreea Scurtu, Mihai-Lica Pura, "Web GUI for Automating the Formal Verification of Security Protocols using Casper&FDR4", 11th International Conference on Electronics, Computers and Artificial Intelligence – ECAI’2019, Pitesti, Romania, 27-29 June, 2019
 
 5. Robert-George Simion: **Torrent network monitor**
+
+[GitHub repository](https://github.com/simionrobert/BitInsight)
 
 [Publication](https://ieeexplore.ieee.org/document/9111636): Robert-George Simion, Mihai-Lica Pura, "A BitTorrent DHT Crawler", IEEE 13th International Symposium on Applied Computational Intelligence and Informatics (SACI 2019), May 29-31, 2019, Timisoara, Romania
 

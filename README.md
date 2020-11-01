@@ -168,3 +168,21 @@ GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://
 
 5. Sorin-Andrei Vasilica: **NoSQL databases**
 
+### 2016
+
+1. Daniel-Catalin Amarioarei: **Automated text summarization and illustration through natural language processing**
+
+2. Geanina Balan: **Database replication between servers using different technologies**
+
+3. Maria-Alexandra Bojescu: **Software application for the management of accommodations in penitentiaries**
+
+4. Elena-Alexandra Budulan: **Software application for inventories management in penitentiaries**
+
+5. Iulian-Catalin Buhus: **Authentication protocols using smartphone applications**
+
+6. Gabriela-Catalina Marica: **The use of NoSQL databases in big data**
+
+7. Sorin-Catalin Teican: **Gamma formalism implementation using rewriting systems**
+
+[Publication](https://ieeexplore.ieee.org/document/8484749): Sorin Catalin Teican, Iulian Aciobanitei, Mihai-Lica Pura, "Using set rewriting to implement the chemical reaction computation model", Proceedings of the 12th IEEE International Conference on Communications – COMM 2018, 14-16 June, 2018, Bucharest, Romania
+

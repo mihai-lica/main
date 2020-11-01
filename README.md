@@ -204,21 +204,49 @@ GitHub repository: [1](https://github.com/leahulorena/PKCS11Cloud), [2](https://
 
 ### 2013
 
-1. Madalin Anton: **Online collaboration prevention system based on mobile agents**
+01. Madalin Anton: **Online collaboration prevention system based on mobile agents**
 
-2. Ana-Maria Ghimes: **Web technologies for software applications using databases**
+02. Tiberiu Budescu: **University admission management system**
 
-3. Teodora Ilies: **Software application for IT&C related inventories management**
+03. Alexandra Dodoiu: **Software application for students management inside a university**
 
-4. Silviu Iosub: **Monitorization video system accessible and configurable over the Internet**
+04. Ana-Maria Ghimes: **Web technologies for software applications using databases**
 
-5. Sebastian Irimia: **Remote access control system for the hardware interfaces of a computer**
+05. Teodora Ilies: **Software application for IT&C related inventories management**
 
-6. Bianca Mateoiu: **Object-oriented programming language design**
+06. Silviu Iosub: **Monitorization video system accessible and configurable over the Internet**
 
-7. Clara Polifron: **Test data generator for database servers**
+07. Sebastian Irimia: **Remote access control system for the hardware interfaces of a computer**
 
-8. Mihaela Sava: **Part-of-speech tagging**
+08. Bianca Mateoiu: **Object-oriented programming language design**
 
-9. Alexandru Tenuc: **General purpose programming language design**
+09. Ovidiu Pascutoiu: **Software application for activity tracking inside an organziation**
+
+10. Clara Polifron: **Test data generator for database servers**
+
+11. Mihaela Sava: **Part-of-speech tagging**
+
+12. Diana Sanatescu: **Bluetooth communications system on Android using DSP platform**
+
+13. Alexandru Tenuc: **General purpose programming language design**
+
+### 2012
+
+1. Sorin Baiuta: **Software application for remote controlling smartphones through SMS**
+
+2. Marin Coman: **Encrypted audio recording and transmission software applications via WCDMA networks, for Android systems**
+
+3. Ionut Constantin: **Simulating and testing the hybrid ad hoc routing protocols**
+
+4. Adina Dascalu: **Modelling communications protocols using Petri nets**
+
+5. Cezar Glavan: **Use of open-source software tools to test vulnerabilities in information and communication systems**
+
+6. Andrei Jerca: **Using smart cards for websites user authentication**
+
+7. George Mirica: **Using smartphone for websites user authentication**
+
+8. Catalin Urechean: **Identity-based cryptography and smartcards**
+
+9. Florin Vladescu: **Simulating and testing the security protocols using identity-based cryptography**
 

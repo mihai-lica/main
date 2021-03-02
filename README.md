@@ -14,6 +14,19 @@
 
 # Master's thesis supervision
 
+### 2021
+
+1. Ionut-Catalin Dumitru: **TLS client authentication on smartphones using cloud certificates**
+
+[GitHub repository](https://github.com/dumitrucatalin/Chromium-Android-CSC-TLS-MUTUAL-AUTH)
+[Bitbucket repository](https://bitbucket.org/catalindumitru96/conscrypt-for-csc-tls-mutual-auth/src/master/)
+
+2. Cristian-Stefan Marica: **A system for database interoperability**
+
+3. Alexandru Olariu: **Protocol for automated signature using cloud certificates**
+
+4. Sorin Catalin Teican: **Building a library of security protocol for AVANTSSAR**
+
 ### 2020
 
 1. Robert-George Simion: **Cloud Signature Consortium Standard compliant cloud electronic signature web service**

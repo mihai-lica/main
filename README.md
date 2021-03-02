@@ -25,7 +25,7 @@
 
 3. Alexandru Olariu: **Protocol for automated signature using cloud certificates**
 
-4. Sorin Catalin Teican: **Building a library of security protocol for AVANTSSAR**
+4. Sorin Catalin Teican: **Building a library of security protocols for AVANTSSAR**
 
 ### 2020
 

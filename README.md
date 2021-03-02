@@ -18,7 +18,7 @@
 
 1. Ionut-Catalin Dumitru: **TLS client authentication on smartphones using cloud certificates**
 
-[GitHub repository](https://github.com/dumitrucatalin/Chromium-Android-CSC-TLS-MUTUAL-AUTH)
+[GitHub repository](https://github.com/dumitrucatalin/Chromium-Android-CSC-TLS-MUTUAL-AUTH),
 [Bitbucket repository](https://bitbucket.org/catalindumitru96/conscrypt-for-csc-tls-mutual-auth/src/master/)
 
 2. Cristian-Stefan Marica: **A system for database interoperability**

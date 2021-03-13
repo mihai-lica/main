@@ -4,6 +4,8 @@
 
 [presentation support](https://github.com/mihai-lica/course-formal-languages-and-translators)
 
+[lecture notes](https://github.com/mihai-lica/lecture-notes-formal-languages-and-translators)
+
 ### Information Security
 
 [presentation support](https://github.com/mihai-lica/course-information-security)

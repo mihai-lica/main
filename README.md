@@ -10,9 +10,9 @@
 
 [presentation support](https://github.com/mihai-lica/course-information-security)
 
-### Human-computer Interaction
+### Human-Computer Interaction
 
-
+[presentation support](https://github.com/mihai-lica/course-human-computer-interaction)
 
 # Master's thesis supervision
 
